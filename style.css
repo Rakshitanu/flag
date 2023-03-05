@@ -1,0 +1,22 @@
+.blue{
+    width: 33%;
+    height: 100vh;
+    background-color: blue;
+    
+}
+.white{
+    width: 33%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+   
+}
+.red{
+    width: 33%;
+    height: 100vh;
+    background-color: red;
+    
+}
+.flag{
+    display: flex;
+}
+
